@@ -1,0 +1,71 @@
+body{
+    background-color: pink;
+     background-size: cover;
+ }
+ .form{
+     margin-top: 5%;
+     border: 10px white solid;
+     background-color: black;
+     color:antiquewhite;
+     margin-left: 30%;
+     margin-right: 30%;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     border-radius: 30px;
+ }
+ label{
+     margin-right: 8px;
+     font-size: large;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-weight: bold;
+ }
+ input{
+     height: 30px;
+     border-radius: 20px;
+     border: 5px pink solid;
+ }
+ input:hover{
+     
+     color:brown;
+     border-color: red;
+ }
+ .ud{
+     margin-bottom: 10px;
+ }
+ .pass{
+     margin-bottom: 10px;
+ }
+ button{
+     height: 30%;
+     color:cornsilk;
+     background-color: cornflowerblue;
+     align-items: center;
+     padding-top: 5px;
+     width: 20%;
+     height: 20%;
+     padding-bottom: 5px;
+ }
+ button:hover{
+     background-color: darkcyan;
+     color:cyan;
+ }
+ /* .overlay2{
+     background-color: rgba(11, 11, 11, 0.726);
+     min-height: 60vh;
+    
+     justify-content: center;
+     align-items: center;
+     color:black;
+     background-size: cover;
+ } */
+ .nav{
+    display: flex;
+    background-color: black;
+    
+ }
+ .nav-link{
+    color:white;
+    border: 2px solid white;
+  }

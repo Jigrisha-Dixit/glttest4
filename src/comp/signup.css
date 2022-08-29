@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(145, 189, 57);
+}
+.Form{
+    margin-top: 10%;
+    border: 10px black solid;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+p{
+    background-color: white;
+    color: red;
+}
